@@ -11,4 +11,4 @@
 
 # Results:
 <img src="images/Results.png">
-Average reward for the last 100 episodes > 300 was achieved on 429 episode. 
+Average reward for the last 100 episodes > 300 was achieved on 429 episode of training. 
